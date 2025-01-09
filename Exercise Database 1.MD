@@ -1,12 +1,6 @@
-# Exercise Database with Video & Images Guide
+# Exercise Database with Video & Images Guide (Including Effective Muscles & Instructions)
 
-## Effective Muscles & Instructions
-
-This comprehensive exercise database includes a variety of exercises, each with a video guide, images, and detailed instructions. These exercises target different muscle groups, ensuring a full-body workout. The guide will help you understand the proper techniques and the muscles involved in each exercise.
-
----
-
-### List of Exercises
+Here is a comprehensive list of exercises with video guides, images, and detailed instructions for each. Click on the exercise name to access the page with more information.
 
 1. [Cable Seated Crunch](https://fitzport.com/exercise/cable-seated-crunch/)
 2. [Cocoons](https://fitzport.com/exercise/cocoons/)
@@ -61,13 +55,13 @@ This comprehensive exercise database includes a variety of exercises, each with 
 51. [Incline Cable Flye](https://fitzport.com/exercise/incline-cable-flye/)
 52. [Wide Grip Barbell Bench Press](https://fitzport.com/exercise/wide-grip-barbell-bench-press/)
 53. [Decline Barbell Bench Press](https://fitzport.com/exercise/decline-barbell-bench-press/)
-54. [Incline Push Up](https://fitzport.com/exercise/incline-push-up/)
+54. [Incline Push-Up](https://fitzport.com/exercise/incline-push-up/)
 55. [Incline Dumbbell Flyes](https://fitzport.com/exercise/incline-dumbbell-flyes/)
 56. [Incline Cable Chest Press](https://fitzport.com/exercise/incline-cable-chest-press/)
 57. [Cable Chest Press](https://fitzport.com/exercise/cable-chest-press/)
 58. [Dumbbell Bench Press with Neutral Grip](https://fitzport.com/exercise/dumbbell-bench-press-with-neutral-grip/)
 59. [Leverage Incline Chest Press](https://fitzport.com/exercise/leverage-incline-chest-press/)
-60. [Decline Push Up](https://fitzport.com/exercise/decline-push-up/)
+60. [Decline Push-Up](https://fitzport.com/exercise/decline-push-up/)
 61. [Hammer Grip Incline DB Bench Press](https://fitzport.com/exercise/hammer-grip-incline-db-bench-press/)
 62. [Pushups Close and Wide Hand Positions](https://fitzport.com/exercise/pushups-close-and-wide-hand-positions/)
 63. [Decline Dumbbell Bench Press](https://fitzport.com/exercise/decline-dumbbell-bench-press/)
@@ -77,7 +71,7 @@ This comprehensive exercise database includes a variety of exercises, each with 
 67. [Incline Dumbbell Flyes with a Twist](https://fitzport.com/exercise/incline-dumbbell-flyes-with-a-twist/)
 68. [Smith Machine Bench Press](https://fitzport.com/exercise/smith-machine-bench-press/)
 69. [Standing Cable Chest Press](https://fitzport.com/exercise/standing-cable-chest-press/)
-70. [Push Up to Side Plank](https://fitzport.com/exercise/push-up-to-side-plank/)
+70. [Push-Up to Side Plank](https://fitzport.com/exercise/push-up-to-side-plank/)
 71. [Alternating Floor Press](https://fitzport.com/exercise/alternating-floor-press/)
 72. [Dynamic Chest Stretch](https://fitzport.com/exercise/dynamic-chest-stretch/)
 73. [Bodyweight Flyes](https://fitzport.com/exercise/bodyweight-flyes/)
@@ -103,23 +97,18 @@ This comprehensive exercise database includes a variety of exercises, each with 
 93. [Dumbbell Lunges](https://fitzport.com/exercise/dumbbell-lunges/)
 94. [Dumbbell Rear Lunge](https://fitzport.com/exercise/dumbbell-rear-lunge/)
 95. [Dumbbell Squat](https://fitzport.com/exercise/dumbbell-squat/)
-96. [Dumbbell Step Up](https://fitzport.com/exercise/dumbbell-step-up/)
-97. [Frog Squat](https://fitzport.com/exercise/frog-squat/)
-98. [Glute Bridge](https://fitzport.com/exercise/glute-bridge/)
-99. [Glute Kickback](https://fitzport.com/exercise/glute-kickback/)
-100. [Lateral Step-Up](https://fitzport.com/exercise/lateral-step-up/)
-
-
----
-
-## Conclusion
-
-This list of exercises is curated to provide a well-rounded workout for all muscle groups. Each exercise includes a detailed guide, images, and video tutorials to ensure you perform each movement with proper form for maximum results.
+96. [Front Squat](https://fitzport.com/exercise/front-squat/)
+97. [Goblet Squat](https://fitzport.com/exercise/goblet-squat/)
+98. [Hack Squat](https://fitzport.com/exercise/hack-squat/)
+99. [Hack Squat with Resistance Bands](https://fitzport.com/exercise/hack-squat-with-resistance-bands/)
+100. [Leg Press Machine](https://fitzport.com/exercise/leg-press-machine/)
 
 ---
-
-## Additional Resources
-
-- **Video Guide:** Watch detailed video demonstrations of each exercise for correct posture and execution.
-- **Nutrition Tips:** Along with your workout routine, remember that proper nutrition is crucial for effective fitness. Explore our nutrition guides to fuel your performance.
-
+### Muscles Targeted
+- **Cable Seated Crunch:** Core (Abs)
+- **Cocoons:** Core (Abs)
+- **Crunch Hands Overhead:** Core
+- **Reverse Cable Curl:** Biceps
+- **Smith Machine Overhead Shoulder Press:** Shoulders
+- **Kettlebell Thruster:** Shoulders, Legs
+- **Dumbbell Bench Press:** Chest
